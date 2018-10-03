@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/home/tin/.conda/envs/djangoEnv/bin/python",
+  "python.linting.pylintEnabled": false
+}
